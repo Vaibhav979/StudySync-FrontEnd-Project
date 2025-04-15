@@ -35,10 +35,6 @@ header {
   padding: 0.5rem;
 }
 
-.header {
-  border: 1px solid black;
-}
-
 .logo {
   display: flex;
   align-items: center;
