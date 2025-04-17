@@ -421,6 +421,7 @@ header {
   gap: 2rem;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .testimonial-title {
@@ -457,16 +458,6 @@ header {
 }
 
 .testimonial-text {
-  color: #555;
+  /* color: #555; */
   font-size: 0.875rem;
-}
-
-.testimonial-name {
-  color: var(--primary-color);
-  font-size: 1rem;
-}
-
-.testimonial-desc {
-  font-size: 0.875rem;
-  color: #777;
 }
