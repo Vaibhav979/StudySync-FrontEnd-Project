@@ -697,37 +697,8 @@ ul {
   margin-bottom: 1.2rem;
 }
 
-.footer-copyright {
+.footer-copyright{
   color: var(--gray);
   font-size: 0.75rem;
-  padding-bottom: 2rem;
-  margin-top: 1.5rem;
-  border-top: 1px solid #e5e7eb;
-  padding-top: 1.3rem;
-}
-
-@media screen and (max-width: 1080px) {
-  .footer {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .footer-top {
-    padding-left: 5rem;
-  }
-
-  .footer-grid {
-    align-self: center;
-    justify-content: space-evenly;
-  }
-}
-
-@media screen and (max-width: 850px) {
-  .footer-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  .footer-top {
-    padding-left: 2rem;
-  }
+  padding-bottom: ;
 }

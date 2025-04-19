@@ -727,7 +727,5 @@ ul {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .footer-top {
-    padding-left: 2rem;
-  }
+  
 }
